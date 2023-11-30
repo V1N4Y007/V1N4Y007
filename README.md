@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V1N4Y007
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate
 - 📫 Reach me via LinkedIn
 
