@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">Passionate about Ethical hacking</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v1n4y007" alt="v1n4y007" /></a> </p>
+
 
 - 🔭 I’m currently working on **Defence Portal**
 
