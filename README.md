@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **??**
 
-- 🌱 I’m currently learning **Cloud Security**
-
-- 👯 I’m looking to collaborate on **GSoC'26**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 💬 Ask me about **Python,Linux**
 
