@@ -1,58 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a1a,333333&height=180&section=header&text=Vinay%20Trivedi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ethical%20Hacker%20%7C%20Cyber%20Security%20%7C%20Developer&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a1a,333333&height=180&section=header&text=Vinay%20Trivedi&fontSize=42&fontColor=00f2ff&animation=twinkling&fontAlignY=32&desc=Ethical%20Hacker%20%7C%20Red%20Teamer%20%7C%20Developer&descAlignY=52&descSize=18"/>
 
 <a href="https://github.com/v1n4y007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%92+Passionate+about+Ethical+Hacking;%F0%9F%92%BB+Python+%26+Linux+Enthusiast;%F0%9F%9B%A1%EF%B8%8F+Learning+Cyber+Security+Defense;%F0%9F%9A%80+Exploring+Cloud+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F+Exploring+System+Vulnerabilities;%F0%9F%92%BB+Pwning+machines+on+TryHackMe;%F0%9F%9B%A1%EF%B8%8F+Building+Secure+Python+Automation;%F0%9F%9A%80+DevSecOps+%26+Cloud+Security" />
 </a>
 
-<br/>
-
 <p>
-  <a href="https://github.com/v1n4y007">
-    <img src="https://komarev.com/ghpvc/?username=v1n4y007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/v1n4y007?tab=followers">
-    <img src="https://img.shields.io/github/followers/v1n4y007?label=Followers&style=for-the-badge&logo=github&color=1DA1F2" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/v1n4y007?tab=repositories">
-    <img src="https://img.shields.io/github/stars/v1n4y007?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=FFD700" alt="GitHub Stars"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=v1n4y007&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/v1n4y007?label=Followers&style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/v1n4y007?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github"/>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/vinay-trivedi-b50523294" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/vinay-trivedi-b50523294">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vinaytrivedi391@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.leetcode.com/vinay_trivedi" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> About Me
+## 🧬 Identity Verification
 
-<img align="right" alt="Hacking" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/RbDKhM6u7OqC5R9Jg5/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5/RbDKhM6u7OqC5R9Jg5/giphy.gif"/>
 
 ```javascript
-const vinay = {
-    pronouns: "He" | "Him",
-    focus: "Ethical Hacking & Cyber Security",
-    code: ["Python", "C++", "Java", "JavaScript"],
-    tools: ["Linux", "Docker", "Kubernetes", "AWS"],
-    
-    askMeAbout: [
-        "Network Security",
-        "Penetration Testing",
-        "Linux Automation",
-        "Cloud Infrastructure"
+const vinay_trivedi = {
+    role: "Cyber Security Analyst & Developer",
+    code: ["Python", "C++", "Bash", "JavaScript"],
+    tools: ["Burp Suite", "Metasploit", "Docker", "AWS"],
+
+    current_mission: [
+        "Escalating Privileges",
+        "Automating Reconnaissance",
+        "Securing Cloud Infrastructure"
     ],
-    
-    funFact: "I think I am funny! 😄"
+
+    funFact: "I treat every bug as a feature... until I exploit it. 🚩"
 };
+```
+
+<br clear="right"/>
+
+---
+
+## 🛡️ Hacker Status
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F2FF&center=true&vCenter=true&repeat=true&width=650&lines=Initializing+Security+Protocols...;Scanning+Attack+Surface...;Exploiting+Knowledge+Gaps+🚀" />
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/vinay_trivedi?theme=dark&font=Nunito&ext=heatmap" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v1n4y007&theme=dark&hide_border=true&ring=00f2ff&fire=ff6b35&currStreakLabel=00f2ff&background=0d1117"/>
+
+</div>
+
+---
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+### 🔐 Security & Hacking
+<img src="https://skillicons.dev/icons?i=bash,debian,kali,linux,ubuntu" />
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,java,js" />
+
+### 🌐 Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,gcp" />
+
+### 🤖 ML & Automation
+<img src="https://skillicons.dev/icons?i=tensorflow,selenium,opencv,pytorch" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=v1n4y007&show_icons=true&hide_border=true&title_color=00f2ff&icon_color=00f2ff&text_color=c9d1d9&bg_color=0d1117" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1n4y007&layout=compact&hide_border=true&title_color=00f2ff&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+💙 **Thanks for stopping by**
+
+*"Security is a process, not a product."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a1a,333333&height=120&section=footer"/>
