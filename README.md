@@ -109,4 +109,4 @@ const vinay_trivedi = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a1a,333333&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,1a1a1a,333333&height=220&section=footer"/>
