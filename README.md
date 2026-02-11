@@ -95,9 +95,7 @@ const vinay_trivedi = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=v1n4y007&show_icons=true&hide_border=true&title_color=00f2ff&icon_color=00f2ff&text_color=c9d1d9&bg_color=0d1117&v=3" />
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1n4y007&layout=compact&hide_border=true&title_color=00f2ff&text_color=c9d1d9&bg_color=0d1117&v=3" />
+<img src="https://metrics.lecoq.io/v1/v1n4y007?template=classic&config.timezone=Asia/Kolkata" />
 
 </div>
 
