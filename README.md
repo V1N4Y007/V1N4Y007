@@ -95,7 +95,7 @@ const vinay_trivedi = {
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/v1/v1n4y007?template=classic&config.timezone=Asia/Kolkata" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v1n4y007&theme=github_dark" />
 
 </div>
 
