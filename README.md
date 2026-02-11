@@ -53,7 +53,7 @@ const vinay_trivedi = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F2FF&center=true&vCenter=true&repeat=true&width=650&lines=Initializing+Security+Protocols...;Scanning+Attack+Surface...;Exploiting+Knowledge+Gaps+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F2FF&center=true&vCenter=true&width=650&lines=Initializing+Security+Protocols...;Scanning+Attack+Surface...;Exploiting+Knowledge+Gaps" />
 
 <br><br>
 
@@ -90,13 +90,14 @@ const vinay_trivedi = {
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=v1n4y007&show_icons=true&hide_border=true&title_color=00f2ff&icon_color=00f2ff&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=v1n4y007&show_icons=true&hide_border=true&title_color=00f2ff&icon_color=00f2ff&text_color=c9d1d9&bg_color=0d1117&v=3" />
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1n4y007&layout=compact&hide_border=true&title_color=00f2ff&text_color=c9d1d9&bg_color=0d1117" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1n4y007&layout=compact&hide_border=true&title_color=00f2ff&text_color=c9d1d9&bg_color=0d1117&v=3" />
 
 </div>
 
