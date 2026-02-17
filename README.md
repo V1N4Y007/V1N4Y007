@@ -56,10 +56,13 @@ const vinay_trivedi = {
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F2FF&center=true&vCenter=true&width=650&lines=Initializing+Security+Protocols...;Scanning+Attack+Surface...;Exploiting+Knowledge+Gaps" />
 
 <br><br>
-
-<img src="https://leetcard.jacoblin.cool/vinay_trivedi?theme=dark&font=Nunito&ext=heatmap" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/vinaytrivedi391.png" alt="Vinay TryHackMe" />
+<br><br>
 
 <br><br>
+<img src="https://leetcard.jacoblin.cool/vinay_trivedi?theme=dark&font=Nunito&ext=heatmap" />
+<br><br>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=v1n4y007&theme=dark&hide_border=true&ring=00f2ff&fire=ff6b35&currStreakLabel=00f2ff&background=0d1117"/>
 
