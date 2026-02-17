@@ -55,9 +55,7 @@ const vinay_trivedi = {
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F2FF&center=true&vCenter=true&width=650&lines=Initializing+Security+Protocols...;Scanning+Attack+Surface...;Exploiting+Knowledge+Gaps" />
 
-<br><br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/vinaytrivedi391.png" alt="Vinay TryHackMe" />
-<br><br>
+
 
 <br><br>
 <img src="https://leetcard.jacoblin.cool/vinay_trivedi?theme=dark&font=Nunito&ext=heatmap" />
