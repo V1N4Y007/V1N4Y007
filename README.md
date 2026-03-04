@@ -91,11 +91,6 @@ const vinay_trivedi = {
 
 ---
 
-💙 **Thanks for stopping by**
-
-*"Security is a process, not a product."*
-
-</div>
 
 <div align="center">
 
