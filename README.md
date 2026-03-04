@@ -91,19 +91,6 @@ const vinay_trivedi = {
 
 ---
 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v1n4y007&theme=github_dark" />
-
-</div>
-
----
-
-<div align="center">
-
 💙 **Thanks for stopping by**
 
 *"Security is a process, not a product."*
